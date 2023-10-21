@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Bruce Webster",
+            "location": "BWR",
+            "username": "bruceman22",
+            "roll": "$5",
+            "description": "New notebook with 2024 calandar. I have 3 of them and am selling 2." 
+        },
+    
+        {   
+            "id": 2,
+            "name": "Alex Davis",
+            "location": "BWR",
+            "username": "a_davis44",
+            "roll": "$100",
+            "description": "2017 Mac Pro. Still works great but I am upgrading."
+        },
+        {
+            "id": 3,
+        "name": "Dane Taylor",
+            "location": "MWL",
+            "username": "dane_tay2",
+            "roll": "$40",
+            "description": "Used TV, I am upgrading so I'm selling cheap."
+        }
+    ]
+}

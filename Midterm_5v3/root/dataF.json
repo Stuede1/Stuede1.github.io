@@ -1,0 +1,28 @@
+{
+    "users":[
+        {   
+            "id": 1,
+            "name": "Peter Smith",
+            "location": "Helser",
+            "username": "pete_the_great",
+            "roll": "$15",
+            "description": "New backpack. Putting it here because I want someone from the University to get it for cheap."
+        },
+        {
+            "id": 2,
+            "name": "Joe Wesley",
+            "location": "Fridley",
+            "username": "joeman33",
+            "roll": "$30",
+            "description": "Tablet pen. Can be connected through bluetooth on any tablet."
+        },
+        {
+            "id": 3,
+            "name": "Josh Thompson",
+            "location": "Fridley",
+            "username": "josh_t8",
+            "roll": "$10",
+            "description": "Backpack that's been used one year. Light cosmetic damage."
+        }
+    ]
+}

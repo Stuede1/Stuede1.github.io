@@ -1,0 +1,30 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Clark Johnson",
+            "location": "Frederickson Court",
+            "username" : "c_johnson",
+            "roll": "$10",
+            "description": "New water bottle that hasn't been used. Holds 24 ounces."
+           
+        },
+        {
+            "id": 2,
+            "name": "Jeff Jacksen",
+            "location": "Frederickson Court",
+            "username" : "jeff_jack88",
+            "roll": "5",
+            "description": "File folder that can hold up to 6 different classes."
+           
+        },
+        {
+            "id": 3,
+            "name": "Tyler Baker",
+            "location": "Frederickson Court",
+            "username": "ty_bake76",
+            "roll": "$50",
+            "description": "Used printer. Still works great but I am graduating this year."
+        }
+    ]
+}

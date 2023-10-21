@@ -1,0 +1,79 @@
+{
+    "users":[
+{
+    "id": 1,
+    "name": "Clark Johnson",
+    "location": "Frederickson Court",
+    "username" : "c_johnson",
+    "roll": "$10",
+    "description": "New water bottle that hasn't been used. Holds 24 ounces."
+   
+},
+{
+    "id": 2,
+    "name": "Bruce Webster",
+    "location": "BWR",
+    "username": "bruceman22",
+    "roll": "$5",
+    "description": "New notebook with 2024 calandar. I have 3 of them and am selling 2." 
+},
+{   
+    "id": 3,
+    "name": "Peter Smith",
+    "location": "Helser",
+    "username": "pete_the_great",
+    "roll": "$15",
+    "description": "New backpack. Putting it here because I want someone from the University to get it for cheap."
+},
+{
+    "id": 4,
+    "name": "Joe Wesley",
+    "location": "Fridley",
+    "username": "joeman33",
+    "roll": "$30",
+    "description": "Tablet pen. Can be connected through bluetooth on any tablet."
+},
+{
+    "id": 5,
+    "name": "Jeff Jacksen",
+    "location": "Frederickson Court",
+    "username" : "jeff_jack88",
+    "roll": "5",
+    "description": "File folder that can hold up to 6 different classes."
+   
+},
+{   
+    "id": 6,
+    "name": "Alex Davis",
+    "location": "BWR",
+    "username": "a_davis44",
+    "roll": "$100",
+    "description": "2017 Mac Pro. Still works great but I am upgrading."
+},
+{
+    "id": 7,
+    "name": "Tyler Baker",
+    "location": "Frederickson Court",
+    "username": "ty_bake76",
+    "roll": "$50",
+    "description": "Used printer. Still works great but I am graduating this year."
+},
+{
+    "id": 8,
+    "name": "Josh Thompson",
+    "location": "Fridley",
+    "username": "josh_t8",
+    "roll": "$10",
+    "description": "Backpack that's been used one year. Light cosmetic damage."
+},
+{
+    "id": 9,
+"name": "Dane Taylor",
+    "location": "MWL",
+    "username": "dane_tay2",
+    "roll": "$40",
+    "description": "Used TV, I am upgrading so I'm selling cheap."
+}
+
+]
+}
