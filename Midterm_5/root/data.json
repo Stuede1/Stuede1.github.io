@@ -1,0 +1,77 @@
+
+{
+    "userPost": [
+        {
+            "item": "Bottle",
+            "postid" : 1,
+            "location": "Frederiksen Court",
+            "username": "Erin Dunn",
+            "url": "../images/bottle.jpg",
+            "email": "edunn@iastate.edu"
+        },
+        {
+            "item": "Folder",
+            "postid" : 2,
+            "location": "BWR",
+            "username": "Fritz Davis",
+            "url": "../images/folder.jpg",
+            "email": "fritzd@iastate.edu"
+        },
+        {
+            "item": "Notepad",
+            "postid" : 3,
+            "location": "Friley",
+            "username": "Lou Griffith",
+            "url": "../images/notepad.jpg",
+            "email": "lougriffith@iastate.edu"
+        },
+        {
+            "item": "Backpack",
+            "postid" : 4,
+            "location": "Frederiksen Court",
+            "username": "Emilia Hobbs",
+            "url": "../images/pack.jpg",
+            "email": "emiliahobbs@iastate.edu"
+        },
+        {
+            "item": "Pen",
+            "postid" : 5,
+            "location": "BWR",
+            "username": "Brigitte Arnold",
+            "url": "../images/pen.jpg",
+            "email": "barold2@iastate.edu"
+        },
+        {
+            "item": "Laptop",
+            "postid" : 6,
+            "location": "Friley",
+            "username": "Rodney Olsen",
+            "url": "../images/laptop.jpg",
+            "email": "rodneyolden2@iastate.edu"
+        },
+        {
+            "item": "Scooter",
+            "postid" : 7,
+            "location": "Frederiksen Court",
+            "username": "Luigi Ritter",
+            "url": "../images/scooter.jpg",
+            "email": "luigiritter2@iastate.edu"
+        },
+        {
+            "item": "Cowboy Hat Keychain",
+            "postid" : 8,
+            "location": "BWR",
+            "username": "Joesph Villanueva",
+            "url": "../images/cowboyhat.jpg",
+            "email": "joevillanueva@iastate.edu"
+        },
+        {
+            "item": "Stuffed Plush",
+            "postid" : 9,
+            "location": "Friley",
+            "username": "Harvey Yang",
+            "url": "../images/plush.jpg",
+            "email": "harvey.yang@iastate.edu"
+        }
+    ]
+  }

@@ -1,0 +1,29 @@
+
+{
+    "userPost": [
+        {
+            "item": "Notepad",
+            "postid" : 3,
+            "location": "Friley",
+            "username": "Lou Griffith",
+            "url": "../images/notepad.jpg",
+            "email": "lougriffith@iastate.edu"
+        },
+        {
+            "item": "Laptop",
+            "postid" : 6,
+            "location": "Friley",
+            "username": "Rodney Olsen",
+            "url": "../images/laptop.jpg",
+            "email": "rodneyolden2@iastate.edu"
+        },
+        {
+            "item": "Stuffed Plush",
+            "postid" : 9,
+            "location": "Friley",
+            "username": "Harvey Yang",
+            "url": "../images/plush.jpg",
+            "email": "harvey.yang@iastate.edu"
+        }
+    ]
+  }

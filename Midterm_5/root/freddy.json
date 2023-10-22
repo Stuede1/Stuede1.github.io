@@ -1,0 +1,29 @@
+
+{
+    "userPost": [
+        {
+            "item": "Bottle",
+            "postid" : 1,
+            "location": "Frederiksen Court",
+            "username": "Erin Dunn",
+            "url": "../images/bottle.jpg",
+            "email": "edunn@iastate.edu"
+        },
+        {
+            "item": "Backpack",
+            "postid" : 4,
+            "location": "Frederiksen Court",
+            "username": "Emilia Hobbs",
+            "url": "../images/pack.jpg",
+            "email": "emiliahobbs@iastate.edu"
+        },
+        {
+            "item": "Scooter",
+            "postid" : 7,
+            "location": "Frederiksen Court",
+            "username": "Luigi Ritter",
+            "url": "../images/scooter.jpg",
+            "email": "luigiritter2@iastate.edu"
+        }
+    ]
+  }

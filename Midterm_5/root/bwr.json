@@ -1,0 +1,29 @@
+
+{
+    "userPost": [
+        {
+            "item": "Folder",
+            "postid" : 2,
+            "location": "BWR",
+            "username": "Fritz Davis",
+            "url": "../images/folder.jpg",
+            "email": "fritzd@iastate.edu"
+        },
+        {
+            "item": "Pen",
+            "postid" : 5,
+            "location": "BWR",
+            "username": "Brigitte Arnold",
+            "url": "../images/pen.jpg",
+            "email": "barold2@iastate.edu"
+        },
+        {
+            "item": "Cowboy Hat Keychain",
+            "postid" : 8,
+            "location": "BWR",
+            "username": "Joesph Villanueva",
+            "url": "../images/cowboyhat.jpg",
+            "email": "joevillanueva@iastate.edu"
+        }
+    ]
+  }
